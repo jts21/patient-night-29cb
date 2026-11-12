@@ -27,7 +27,7 @@ export default function Home() {
         </main>
 
         <footer className="text-center p-4 text-gray-500">
-          Jupiter Technology Solutions, Inc. | Email: kaiser.al@jupiterts.com | Phone: (516) 216-9095
+          Jupiter Technology Solutions, Inc. | Email: kaiser.al@jupiterts.com 
         </footer>
       </div>
     </>
