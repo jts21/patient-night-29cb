@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <div className="flex flex-col min-h-screen">
         <header className="text-right p-4 text-gray-500 text-lg">
-          <div><h4>Jupiter Technology Solutions</h4></div>
+          <div><h1>Jupiter Technology Solutions</h1></div>
           <div className="text-sm">kaiser.al@jupiterts.com</div>
         </header>
 
